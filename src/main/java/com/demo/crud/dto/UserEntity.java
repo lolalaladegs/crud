@@ -34,7 +34,7 @@ public class UserEntity {
     private String email;
 
     @Column(name = "phone_number")
-    private String phonenumber;
+    private String phone;
 
     @Column(name = "website")
     private String website;
