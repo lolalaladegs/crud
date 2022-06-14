@@ -16,8 +16,8 @@ public class User {
     @Mapping("email")
     private String email;
 
-    @Mapping("phoneNumber")
-    private String phoneNumber;
+    @Mapping("phonenumber")
+    private String phonenumber;
 
     @Mapping("website")
     private String website;
